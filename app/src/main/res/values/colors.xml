@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modern Professional Color Scheme -->
+    <color name="blue_200">#B3E5FC</color>
+    <color name="blue_500">#2196F3</color>
+    <color name="blue_700">#1976D2</color>
+
+    <!-- Secondary Colors -->
+    <color name="blue_grey_200">#CFD8DC</color>
+    <color name="blue_grey_500">#607D8B</color>
+    <color name="blue_grey_700">#455A64</color>
+
+    <!-- Accent Colors -->
+    <color name="teal_200">#B2DFDB</color>
+    <color name="teal_500">#009688</color>
+    <color name="teal_700">#00796B</color>
+
+    <!-- Surface Colors -->
+    <color name="surface_light">#FAFAFA</color>
+    <color name="surface_dark">#121212</color>
+    <color name="on_surface_light">#1C1B1F</color>
+    <color name="on_surface_dark">#E6E1E5</color>
+
+    <!-- Basic Colors -->
+    <color name="black">#FF121212</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
